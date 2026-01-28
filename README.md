@@ -57,12 +57,12 @@ This approach significantly reduces hallucinations and improves answer accuracy.
 
 Category	Tools
 
-Programming Language-	Python
-UI Framework-	Streamlit
-GenAI Framework-	LangChain
-LLM-	FLAN-T5 (HuggingFace)
-Embeddings-	Sentence Transformers
-Vector Database-	FAISS
+Programming Language-	Python,
+UI Framework-	Streamlit,
+GenAI Framework-	LangChain,
+LLM-	FLAN-T5 (HuggingFace),
+Embeddings-	Sentence Transformers,
+Vector Database-	FAISS,
 PDF Processing-	PyPDF
 
 
