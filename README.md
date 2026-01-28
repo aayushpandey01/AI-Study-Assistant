@@ -14,6 +14,8 @@ Get reliable answers without searching multiple resources
 This project solves the problem by using GenAI + semantic search to provide context aware learning assistance from uploaded documents.
 
 
+
+
 🚀 Key Features
 
 📄 Upload PDF study material
@@ -29,6 +31,8 @@ This project solves the problem by using GenAI + semantic search to provide cont
 🔍 Accurate, context-based answers using RAG
 
 🖥️ Interactive and easy to use Streamlit UI
+
+
 
 
 🧠 System Architecture (RAG Pipeline)
@@ -48,8 +52,11 @@ A Large Language Model generates responses strictly from retrieved context
 This approach significantly reduces hallucinations and improves answer accuracy.
 
 
+
 🛠️ Tech Stack
+
 Category	Tools
+
 Programming Language-	Python
 UI Framework-	Streamlit
 GenAI Framework-	LangChain
